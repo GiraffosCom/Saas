@@ -1,0 +1,4 @@
+[submodule "quanvm00/odoo12ce_saas"]
+	path = quanvm00/odoo12ce_saas
+	url = git@github.com:quanvm00/odoo12ce_saas.git
+	branch = master
