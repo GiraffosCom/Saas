@@ -2,3 +2,8 @@
 	path = it-projects-llc/saas-addons
 	url = git@github.com:it-projects-llc/saas-addons.git
 	branch = 12.0-db-list
+
+[submodule "OCA/queue"]
+	path = OCA/queue
+	url = git@github.com:OCA/queue.git
+	branch = 12.0
